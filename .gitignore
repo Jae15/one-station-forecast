@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pth
+.env
+.venv
+.envrc
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+data/*.zip
